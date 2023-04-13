@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Movies](image_url)
+![Movies](Movies.mp4)
+
+![Movie](Movie.png)
 
 ## Available Scripts
 
